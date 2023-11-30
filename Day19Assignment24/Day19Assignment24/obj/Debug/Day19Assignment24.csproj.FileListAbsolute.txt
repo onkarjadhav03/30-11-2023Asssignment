@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Day19\Day19Assignment24\Day19Assignment24\bin\Debug\Day19Assignment24.exe.config
+D:\mphasis\dotnet\Day19\Day19Assignment24\Day19Assignment24\bin\Debug\Day19Assignment24.exe
+D:\mphasis\dotnet\Day19\Day19Assignment24\Day19Assignment24\bin\Debug\Day19Assignment24.pdb
+D:\mphasis\dotnet\Day19\Day19Assignment24\Day19Assignment24\obj\Debug\Day19Assignment24.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Day19\Day19Assignment24\Day19Assignment24\obj\Debug\Day19Assignment24.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Day19\Day19Assignment24\Day19Assignment24\obj\Debug\Day19Assignment24.exe
+D:\mphasis\dotnet\Day19\Day19Assignment24\Day19Assignment24\obj\Debug\Day19Assignment24.pdb
